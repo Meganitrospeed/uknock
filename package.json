@@ -1,0 +1,19 @@
+{
+  "name": "uknock",
+  "version": "1.0.0",
+  "description": "uKnock is a port knock utility made in NodeJS that support continuous knocking",
+  "main": "uknock.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Meganitrospeed",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "knocker": "^0.1.0",
+    "mocha": "^9.2.1",
+    "ping": "^0.4.1",
+    "rewire": "^6.0.0"
+  }
+}
