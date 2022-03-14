@@ -1,7 +1,7 @@
 # uknock - ultimate knocking tool
 
 ## Idea
-I love the idea of port knocking, but hated the idea of manually knocking every time I wanted to access a serivce, I created a knocker that would monitor if a connection was open with the destination server, and if not, knock again, we call this: continuous knocking, currently this is the only way supported by uknock
+I love the idea of port knocking, but hated the idea of manually knocking every time I wanted to access a serivce, I created a knocker that would monitor if a connection was open with the destination server, and if not, knock again, we call this: continuous knocking, currently this is the only method supported by uknock
 
 ## Instalation
 
